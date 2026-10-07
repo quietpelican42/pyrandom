@@ -1,4 +1,4 @@
-// Copyright (c) 2026 __AUTHOR__. Derived in part from CPython (Lib/random.py,
+// Copyright (c) 2026 kofiadeyemiq. Derived in part from CPython (Lib/random.py,
 // Modules/_randommodule.c, Modules/mathmodule.c), Copyright (c) 2001-2026 Python
 // Software Foundation; see LICENSE-python. The Mersenne Twister is covered by
 // LICENSE-mt19937.

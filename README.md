@@ -34,7 +34,7 @@ Every integer, ordering and float result matches exactly except the operations t
 ## Installation
 
 ```sh
-go get github.com/__GH_OWNER__/pyrandom
+go get github.com/quietpelican42/pyrandom
 ```
 
 Go 1.24 or later. The package uses only the standard library.
